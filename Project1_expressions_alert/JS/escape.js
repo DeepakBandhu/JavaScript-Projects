@@ -1,0 +1,1 @@
+document.write ("This is some text, then he said \"what is that\" <br> I then said \"Oh that\'s just more text\"");
