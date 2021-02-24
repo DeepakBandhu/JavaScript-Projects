@@ -1,0 +1,1 @@
+document.write(5>10 || 110<5);

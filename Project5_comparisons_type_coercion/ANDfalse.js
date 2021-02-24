@@ -1,0 +1,1 @@
+document.write(10>6 && 5>8);
