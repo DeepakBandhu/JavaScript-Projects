@@ -1,0 +1,66 @@
+#menuBG {
+    width: 350px;
+    height: 570px;
+    margin: 10px auto;
+    background-color: rgb(7, 101, 138);
+}
+
+#frmMenu {
+    width: 400px;
+    height: 200px;
+}
+
+#totalPrice {
+    width: 200px;
+    height: 190px;
+    margin: 0 auto;
+    float: right;
+}
+
+.left {
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+.right {
+    width: 200px;
+    height: 200px;
+    float: right;
+}
+
+.center {
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+#showText {
+    width: 200px;
+    height: 190px;
+    margin: 0px auto;
+    float: left;
+}
+
+#btnOrder {
+    margin: 10px 0px 0px 100px;
+    width: 100px;
+    height: 40px;
+}
+
+.header_3 {
+    color: rgb(199, 219, 15);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.title {
+    color: rgb(219, 137, 15);
+    font-family: fantasy;
+}
+
+div {
+    color: rgb(199, 219, 15);
+    font-family: monospace;
+}
+
+/* Add a font family and color to the DIVs*/ 
