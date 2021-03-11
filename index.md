@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-<h2> Here is my final project submission for the JavaScript course https://github.com/DeepakBandhu/JavaScript-Projects/tree/main/JS%20Final%20Project
+<h2> Here is my final project submission for the JavaScript course https://github.com/DeepakBandhu/JavaScript-Projects/tree/main/JS%20Final%20Project</h2>
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
